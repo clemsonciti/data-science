@@ -1,10 +1,10 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: CITI Data Science
+description: Data Science Page
+author: Linh B Ngo
 logo: http://aboutashu.com/hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
-disqus_shortname: aboutashu
+github: https://github.com/clemsonciti
+about: Clemson Univerity Data Science
+disqus_shortname: citids
 google_analytics: UA-72862926-1
 urls:
     - text: Home
@@ -21,13 +21,13 @@ urls:
       url: '#'
       icon: fa-graduation-cap
     - text: Github
-      url: https://github.com/ashutosh2k12
+      url: https://github.com/clemsonciti
       icon: fa-github
     - text: XML Feed
       url: /feed.xml
       icon: fa-feed
       target: _blank
-      
+
 social:
     - icon: fa-facebook
       link: '#'
@@ -48,8 +48,8 @@ share:
 enableTags: true
 tagarray: []
 
-url: "http://aboutashu.com/hcz-jekyll-blog"
-baseurl: "/hcz-jekyll-blog"
+url: "http://citi.sites.clemson.edu"
+baseurl: "data-science"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
