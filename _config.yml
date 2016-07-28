@@ -1,9 +1,9 @@
 title: CITI Data Science
 description: Data Science Page
-author: Linh B Ngo
-logo: http://aboutashu.com/hcz-jekyll-blog/static/img/avatar.png
+author: Cyberinfrastructure and Technology Integration
+logo:  https://github.com/clemsonciti/lesson-template/raw/gh-pages/img/paw.gif
 github: https://github.com/clemsonciti
-about: Clemson Univerity Data Science
+about:
 disqus_shortname: citids
 google_analytics: UA-72862926-1
 urls:
@@ -23,22 +23,6 @@ urls:
     - text: Github
       url: https://github.com/clemsonciti
       icon: fa-github
-    - text: XML Feed
-      url: /feed.xml
-      icon: fa-feed
-      target: _blank
-
-social:
-    - icon: fa-facebook
-      link: '#'
-    - icon: fa-skype
-      link: '#'
-    - icon: fa-twitter
-      link: '#'
-    - icon: fa-linkedin
-      link: '#'
-    - icon: fa-stack-exchange
-      link: '#'
 
 share:
   twitter_username: \#
@@ -48,8 +32,8 @@ share:
 enableTags: true
 tagarray: []
 
-url: "http://citi.sites.clemson.edu"
-baseurl: "data-science"
+url: "http://linhbngo.github.io"
+baseurl: "/data-science"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
