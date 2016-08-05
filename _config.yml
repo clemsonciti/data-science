@@ -32,8 +32,8 @@ share:
 enableTags: true
 tagarray: []
 
-url: "https://clemsonciti.github.io/"
-baseurl: "data-science"
+url: "https://clemsonciti.github.io/data-science/"
+baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
