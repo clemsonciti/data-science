@@ -8,17 +8,17 @@ disqus_shortname: citids
 google_analytics: UA-72862926-1
 urls:
     - text: Home
-      url: /data-science
+      url: /
       icon: fa-home
       layout: post
     - text: About
-      url: /data-science/about/
+      url: /about/
       icon: fa-comments
     - text: Projects
-      url: /data-science/projects/
+      url: /projects/
       icon: fa-desktop
     - text: Resume
-      url: '/data-science/#'
+      url: '/#'
       icon: fa-graduation-cap
     - text: Github
       url: https://github.com/clemsonciti
@@ -32,7 +32,7 @@ share:
 enableTags: true
 tagarray: []
 
-url: "https://clemsonciti.github.io/data-science/"
+url: ""
 baseurl: ""
 paginate: 20
 per_page: 20
